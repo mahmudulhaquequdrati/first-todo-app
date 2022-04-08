@@ -9,6 +9,7 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-
+keystore.txt
+make-your-day-easy.jks
 # macOS
 .DS_Store

@@ -17,6 +17,7 @@ export default function App() {
     { name: "Complete web developement", key: 1 },
     { name: "Start app development", key: 2 },
     { name: "Read the docs", key: 3 },
+    { name: "Start building react native apps", key: 3 },
   ]);
   const todoInput = useRef();
 
